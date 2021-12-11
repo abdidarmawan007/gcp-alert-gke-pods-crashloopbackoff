@@ -1,4 +1,4 @@
-# Alert pods "Back-off restarting failed container" 
+# Alert pods crashloopbackoff
 - GCP GKE
 - GCP Cloud Monitoring + GCP Cloud Logging
 - Slack
